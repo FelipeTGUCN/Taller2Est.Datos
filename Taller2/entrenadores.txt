@@ -1,0 +1,15 @@
+Luna;Especialista en belleza;1;2;3;4
+Bruno;Entrenador rudo;5;6;7;8
+Maya;Amante de la dulzura;9;10;11;12
+Axel;Experto en ingenio;13;14;15;16
+Nina;Estilo elegante;17;18;19;20
+Leo;Estratega calmado;21;22;23;24
+Kira;Show espectacular;25;26;27;28
+Dante;Dominio total;29;30;31;32
+Rosa;Encanto natural;33;34;35;36
+Ivan;Fuerza y dureza;37;38;39;40
+Elena;Movimientos finos;41;42;43;44
+Marco;Combate técnico;45;46;47;48
+Sofia;Creatividad total;49;50;51;52
+Raul;Control absoluto;53;54;55;56
+Carmen;Gran finalista;57;58;59;60
